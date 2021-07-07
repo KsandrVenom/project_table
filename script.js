@@ -51,4 +51,4 @@ const data = {
     data: dataExample
 }
 
-gridView.render();
+gridView.render(data);
